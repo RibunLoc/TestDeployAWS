@@ -1,0 +1,17 @@
+{
+  "name": "ecs-simple-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "thanhloc@locho.vn",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "experss": "^0.0.1-security",
+    "express": "^4.21.2"
+  }
+}
