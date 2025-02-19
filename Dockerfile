@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 node:22
+FROM --platform=linux/amd64 public.ecr.aws/docker/library/node:hydrogen-alpine3.21
 
 WORKDIR /app
 
